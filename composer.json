@@ -1,0 +1,19 @@
+{
+    "name": "spryker-feature/merchant-category",
+    "description": "Merchant Category [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/merchant-category": "^0.2.0",
+        "spryker/merchant-category-data-import": "^0.2.0",
+        "spryker/merchant-category-search": "^0.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
+    }
+}
