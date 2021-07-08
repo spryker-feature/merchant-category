@@ -1,6 +1,6 @@
 # Spryker Feature: Merchant Category
 
-
+The Merchant Category feature allows splitting merchants into various categories in order to extend business logic of the project.
 
 ## Installation
 
