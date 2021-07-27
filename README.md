@@ -8,5 +8,11 @@ The Merchant Category feature allows splitting merchants into various categories
 composer require spryker-feature/merchant-category
 ```
 
+## Recommended feature dependencies
+- [spryker-feature/category-management](https://github.com/spryker-feature/category-management)
+- [spryker-feature/marketplace-merchant](https://github.com/spryker-feature/marketplace-merchant)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
+
 ## Optional modules
 - [MerchantCategoriesRestApi ^0.1.0](https://github.com/spryker/merchant-categories-rest-api) (Glue)
