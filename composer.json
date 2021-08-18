@@ -7,14 +7,14 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
-        "spryker/category": "^5.2.0",
-        "spryker/merchant-category": "^0.2.1",
-        "spryker/merchant-category-data-import": "^0.2.1",
-        "spryker/merchant-category-search": "^0.1.0"
+        "spryker/category": "^5.0.0",
+        "spryker/merchant-category": "^1.0.0",
+        "spryker/merchant-category-data-import": "^0.3.0",
+        "spryker/merchant-category-search": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202107.x-dev"
+            "dev-master": "202108.x-dev"
         }
     },
     "suggest": {
