@@ -6,15 +6,15 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
-        "spryker/category": "^5.5.0",
+        "php": ">=8.0",
+        "spryker/category": "^5.7.0",
         "spryker/merchant-category": "^1.0.0",
         "spryker/merchant-category-data-import": "^0.3.0",
         "spryker/merchant-category-search": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     },
     "suggest": {
