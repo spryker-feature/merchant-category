@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=7.4",
         "spryker/category": "^5.7.0",
         "spryker/merchant-category": "^1.0.0",
         "spryker/merchant-category-data-import": "^0.3.0",
