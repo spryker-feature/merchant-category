@@ -15,4 +15,4 @@ composer require spryker-feature/merchant-category
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [MerchantCategoriesRestApi ^1.0.0](https://github.com/spryker/merchant-categories-rest-api) (Glue)
+- [MerchantCategoriesRestApi ^1.0.0](https://github.com/spryker/merchant-categories-rest-api) (Legacy Glue)
