@@ -2,6 +2,8 @@
 
 The Merchant Category feature allows splitting merchants into various categories in order to extend business logic of the project.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202307.0/marketplace/merchant-category-feature-overview.html)
+
 ## Installation
 
 ```
