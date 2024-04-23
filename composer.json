@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.1",
-        "spryker/category": "^5.14.0",
+        "spryker/category": "^5.16.0",
         "spryker/merchant-category": "^1.2.0",
         "spryker/merchant-category-data-import": "^0.3.0",
         "spryker/merchant-category-search": "^1.0.0"
