@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.2",
         "spryker/category": "^5.16.0",
         "spryker/merchant-category": "^1.2.0",
         "spryker/merchant-category-data-import": "^0.3.0",
@@ -14,7 +14,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202407.x-dev"
+            "dev-master": "202410.x-dev"
         }
     },
     "suggest": {
