@@ -7,10 +7,10 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/category": "^5.17.0",
+        "spryker/category": "^5.19.0",
         "spryker/merchant-category": "^1.3.0",
         "spryker/merchant-category-data-import": "^0.3.0",
-        "spryker/merchant-category-search": "^1.0.0"
+        "spryker/merchant-category-search": "^1.1.0"
     },
     "extra": {
         "branch-alias": {
